@@ -1,0 +1,15 @@
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\bin\Debug\net5.0\Zikunov.ServiceStation.Data.deps.json
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\bin\Debug\net5.0\Zikunov.ServiceStation.Data.runtimeconfig.json
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\bin\Debug\net5.0\Zikunov.ServiceStation.Data.runtimeconfig.dev.json
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\bin\Debug\net5.0\Zikunov.ServiceStation.Data.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\bin\Debug\net5.0\ref\Zikunov.ServiceStation.Data.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\bin\Debug\net5.0\Zikunov.ServiceStation.Data.pdb
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\obj\Debug\net5.0\Zikunov.ServiceStation.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\obj\Debug\net5.0\Zikunov.ServiceStation.Data.AssemblyInfoInputs.cache
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\obj\Debug\net5.0\Zikunov.ServiceStation.Data.AssemblyInfo.cs
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\obj\Debug\net5.0\Zikunov.ServiceStation.Data.csproj.CoreCompileInputs.cache
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\obj\Debug\net5.0\Zikunov.ServiceStation.Data.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\obj\Debug\net5.0\ref\Zikunov.ServiceStation.Data.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\obj\Debug\net5.0\Zikunov.ServiceStation.Data.pdb
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\obj\Debug\net5.0\Zikunov.ServiceStation.Data.genruntimeconfig.cache
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Data\obj\Debug\net5.0\Zikunov.ServiceStation.Data.csproj.AssemblyReference.cache

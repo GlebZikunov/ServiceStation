@@ -1,0 +1,15 @@
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\bin\Debug\net5.0\Zikunov.ServiceStation.Logic.deps.json
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\bin\Debug\net5.0\Zikunov.ServiceStation.Logic.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\bin\Debug\net5.0\ref\Zikunov.ServiceStation.Logic.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\bin\Debug\net5.0\Zikunov.ServiceStation.Logic.pdb
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\bin\Debug\net5.0\Zikunov.ServiceStation.Data.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\bin\Debug\net5.0\Zikunov.ServiceStation.Data.pdb
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\obj\Debug\net5.0\Zikunov.ServiceStation.Logic.csproj.AssemblyReference.cache
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\obj\Debug\net5.0\Zikunov.ServiceStation.Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\obj\Debug\net5.0\Zikunov.ServiceStation.Logic.AssemblyInfoInputs.cache
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\obj\Debug\net5.0\Zikunov.ServiceStation.Logic.AssemblyInfo.cs
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\obj\Debug\net5.0\Zikunov.ServiceStation.Logic.csproj.CoreCompileInputs.cache
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\obj\Debug\net5.0\Zikunov.ServiceStation.Logic.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\obj\Debug\net5.0\ref\Zikunov.ServiceStation.Logic.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\obj\Debug\net5.0\Zikunov.ServiceStation.Logic.pdb
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.Logic\obj\Debug\net5.0\Zikunov.ServiceStation.Logic.csproj.CopyComplete

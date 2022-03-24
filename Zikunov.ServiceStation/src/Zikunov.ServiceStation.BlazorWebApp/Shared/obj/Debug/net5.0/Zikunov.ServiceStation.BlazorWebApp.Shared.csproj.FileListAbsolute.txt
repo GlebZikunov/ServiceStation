@@ -1,0 +1,11 @@
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\bin\Debug\net5.0\Zikunov.ServiceStation.BlazorWebApp.Shared.deps.json
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\bin\Debug\net5.0\Zikunov.ServiceStation.BlazorWebApp.Shared.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\bin\Debug\net5.0\ref\Zikunov.ServiceStation.BlazorWebApp.Shared.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\bin\Debug\net5.0\Zikunov.ServiceStation.BlazorWebApp.Shared.pdb
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\obj\Debug\net5.0\Zikunov.ServiceStation.BlazorWebApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\obj\Debug\net5.0\Zikunov.ServiceStation.BlazorWebApp.Shared.AssemblyInfoInputs.cache
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\obj\Debug\net5.0\Zikunov.ServiceStation.BlazorWebApp.Shared.AssemblyInfo.cs
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\obj\Debug\net5.0\Zikunov.ServiceStation.BlazorWebApp.Shared.csproj.CoreCompileInputs.cache
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\obj\Debug\net5.0\Zikunov.ServiceStation.BlazorWebApp.Shared.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\obj\Debug\net5.0\ref\Zikunov.ServiceStation.BlazorWebApp.Shared.dll
+D:\Яичная скорлупка\Dev\C#\TeachMeSkills_C#\CourseProject\Zikunov.ServiceStation\src\Zikunov.ServiceStation.BlazorWebApp\Shared\obj\Debug\net5.0\Zikunov.ServiceStation.BlazorWebApp.Shared.pdb
